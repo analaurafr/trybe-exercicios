@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: rgb(87, 83, 90);
+}
+
+#button {
+  border-radius: 5px;
+  align-items: center;
+}
+
+.container {
+  padding-left: 450px;
+  align-items: center;
+  /*display: none;*/
+}
+
+.card {
+  width: 400px;
+  padding: 50px 50px 50px 50px;
+  background-color: black;
+}
+
+h1 {
+  font-size: 80px;
+  display: flex;
+  color: azure;
+  padding-top: 10px;
+}
+
+#image {
+  align-items: center;
+}
+
+#name {
+  font-size: 33px;
+  color: beige;
+}
